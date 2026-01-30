@@ -1,7 +1,7 @@
 
-class TemperatureSensor:
+class Temperature:
     def read(self):
-        return "24°C"
+        return "10°C"
 
 class PressureSensor:
     def read(self):
